@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** designed to analyze global YouTube channel
 
 ---
 
-# 📖 Short Description / Purpose
+# 📖 Description / Purpose
 
 The **Global YouTube Statistics Analysis Dashboard** is an interactive Power BI report that transforms global YouTube statistics into meaningful business insights. It enables users to explore creator performance, compare countries and categories, evaluate audience engagement, and understand revenue trends through dynamic visualizations and filters.
 
@@ -191,10 +191,8 @@ Country-level filtering enables businesses, agencies, and creators to understand
 
 # 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+> <img width="1357" height="727" alt="Screenshot of Dashboard" src="https://github.com/user-attachments/assets/902ed78c-a148-4a28-b5a4-79c8927a7fa5" />
 
-```text
-images/global-youtube-dashboard.png
 ```
 
 ---
